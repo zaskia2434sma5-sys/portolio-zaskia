@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Portofolio Zaskia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="container">
+        <h1>Portofolio</h1>
+
+        <p><strong>Nama:</strong> Zaskia Angelica.H</p>
+        <p><strong>Kelas:</strong> X-5</p>
+        <p><strong>Sekolah:</strong> Prestasi Prima</p>
+        <p><strong>Hobi:</strong> Karate</p>
+        <p><strong>Tanggal Lahir:</strong> 29-11-2009</p>
+    </div>
+
+</body>
+</html>
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #fcefee; /* pastel pink */
+}
+
+.container {
+    width: 400px;
+    margin: 100px auto;
+    background-color: #e8f6f3; /* pastel mint */
+    padding: 30px;
+    border-radius: 15px;
+    text-align: center;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+
+h1 {
+    color: #6c5ce7; /* pastel ungu */
+}
+
+p {
+    color: #2d3436;
+    font-size: 16px;
+}
